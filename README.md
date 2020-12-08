@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me.
+
+An all rounder. From backend to frontend, sysadmin to customer service. In love with web performance. Never stop learning. Currently freelance software engineer. 
 
 ![Logico's github stats](https://github-readme-stats.vercel.app/api?username=logico-dev&theme=dark&show_icons=true?locale=es)
 
