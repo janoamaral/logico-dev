@@ -4,7 +4,12 @@
 
 An all rounder. From backend to frontend, sysadmin to customer service. In love with web performance. Never stop learning. Currently freelance software engineer. 
 
-![Logico's github stats](https://github-cards-14imovvu0.vercel.app/api?username=logico-dev&theme=dark&show_icons=true?locale=es)
+#### Nerd's stats.
+
+![Logico's github stats](https://github-cards-14imovvu0.vercel.app/api?username=logico-dev&theme=dark&show_icons=true&locale=es)
+
+[![Logico's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LogicoDev)](https://github.com/logico-dev/github-readme-stats)
+
 
 <!--
 **logico-dev/logico-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
