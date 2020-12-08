@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Logico's github stats](https://github-readme-stats.vercel.app/api?username=logico-dev&theme=dark&show_icons=true)
+![Logico's github stats](https://github-readme-stats.vercel.app/api?username=logico-dev&theme=dark&show_icons=true?locale=es)
 
 <!--
 **logico-dev/logico-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
