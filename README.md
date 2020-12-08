@@ -6,7 +6,7 @@ An all rounder. From backend to frontend, sysadmin to customer service. In love 
 
 #### Nerd's stats.
 
-![Logico's github stats](https://github-cards-14imovvu0.vercel.app/api?username=logico-dev&theme=default&show_icons=true&locale=es)
+![Logico's github stats](https://github-cards-14imovvu0.vercel.app/api?username=logico-dev&theme=default&show_icons=true)
 
 [![Logico's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LogicoDev&theme=default)](https://github.com/logico-dev/github-readme-stats)
 
